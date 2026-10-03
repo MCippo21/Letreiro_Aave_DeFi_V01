@@ -1,0 +1,12 @@
+# Segredos e dados pessoais
+.env
+Compartilhado/carteiras.py
+*.db
+
+# Python
+__pycache__/
+venv/
+.venv/
+
+# macOS
+.DS_Store
